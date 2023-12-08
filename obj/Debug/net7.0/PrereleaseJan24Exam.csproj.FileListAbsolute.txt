@@ -1,0 +1,14 @@
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\bin\Debug\net7.0\PrereleaseJan24Exam.exe
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\bin\Debug\net7.0\PrereleaseJan24Exam.deps.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\bin\Debug\net7.0\PrereleaseJan24Exam.runtimeconfig.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\bin\Debug\net7.0\PrereleaseJan24Exam.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\bin\Debug\net7.0\PrereleaseJan24Exam.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.GeneratedMSBuildEditorConfig.editorconfig
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.AssemblyInfoInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.AssemblyInfo.cs
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.csproj.CoreCompileInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\refint\PrereleaseJan24Exam.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\PrereleaseJan24Exam.genruntimeconfig.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\PrereleaseJan24Exam\obj\Debug\net7.0\ref\PrereleaseJan24Exam.dll
